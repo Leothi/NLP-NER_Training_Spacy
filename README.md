@@ -24,7 +24,7 @@ unicodecsv==0.14.1
 
 ### Executando
 
-Escolha o jupyter notebook adequado e execute-o. Recomenda-se o citado no exemplo
+Escolha o jupyter notebook adequado e execute-o. Recomenda-se o citado no exemplo.
 
 Por exemplo:
 ```
@@ -37,7 +37,7 @@ Por exemplo:
 
 ## Feito com
 
-* [Jupyter Notebook](https://jupyter.org/) - Framework utilizado
+* [Jupyter Notebook](https://jupyter.org/) - Framework utilizado.
 
 
 ## Autores
@@ -47,4 +47,4 @@ Por exemplo:
 
 ## Agradecimentos
 
-* Qualquer dúvida, sinta-se livre para me contatar
+* Qualquer dúvida, sinta-se livre para me contatar.
