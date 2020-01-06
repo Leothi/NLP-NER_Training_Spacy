@@ -6,7 +6,7 @@ Entidade Logradouro de endereços.
 
 ## Introdução
 
-O código tem o objetivo de treinar entidades utilizando Spacy para identificar entidades de logradouro em endereços.
+O código tem o objetivo de treinar entidades utilizando Spacy para identificar entidades de logradouro em endereços. O dataset é público dos Correios, contendo endereços de agências.
 
 ### Pré-requisitos
 
